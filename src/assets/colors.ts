@@ -10,6 +10,7 @@ const colors = {
   veryPaleRed: '#ffe4e4',
   vividRed: '#f20505',
   white: '#ffffff',
+  btnColor: '#0794E3',
 }
 
 export { colors }
